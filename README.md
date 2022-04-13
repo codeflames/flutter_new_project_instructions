@@ -12,3 +12,6 @@
 ###### For web:
 - go to this link with the image/icon https://www.favicon-generator.org/
 - follow the instruction here - https://stackoverflow.com/questions/56745525/how-to-configure-icon-for-my-flutter-web-application
+
+###### For android or ios:
+- go to https://pub.dev/packages/flutter_launcher_icons and follow the instructions
