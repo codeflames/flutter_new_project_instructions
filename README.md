@@ -21,3 +21,5 @@
 - if you are using flavours:
      create a yaml file for each flavour.
      example: https://github.com/fluttercommunity/flutter_launcher_icons/tree/master/example/flavors
+
+
